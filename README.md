@@ -1,4 +1,4 @@
-# Employee Management Software using PHP & MySQL Database
+# Employee Management System using PHP & MySQL Database
 This project showcases a dynamic and user-friendly UI, designed to streamline employee management processes. It features robust CRUD (Create, Read, Update, Delete) operations, allowing seamless interaction with employee data stored in a MySQL database. 
 Here’s a glimpse of what it offers:
 •	Registration: Easily register new employees into the database
